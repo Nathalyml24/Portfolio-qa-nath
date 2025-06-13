@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <main style={{ padding: '2rem', fontFamily: 'sans-serif', backgroundColor: '#fff' }}>
-      <h1 style={{ color: '#b91c1c' }}>Nathaly "Nath" Monsalve</h1>
+      <h1 style={{ color: '#b91c1c' }}>Nathaly Monsalve</h1>
       <p>QA Funcional | Validación de APIs | Automatización Básica | SQL | ISTQB en proceso</p>
 
       <h2 style={{ color: '#991b1b', marginTop: '2rem' }}>Sobre mí</h2>
